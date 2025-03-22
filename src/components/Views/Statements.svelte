@@ -18,7 +18,7 @@
 	</div>
 </section>
 
-<section class="wrapper fullcenter hero-main">
+<section class="wrapper fullcenter hero-reverse">
 	<div class="image">
 		<img src="/003_illustration.jpg" alt="Illustration" />
 	</div>
