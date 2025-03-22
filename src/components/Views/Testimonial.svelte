@@ -1,34 +1,51 @@
 <section class="background">
 	<div class="wrapper wrapper-center fullcenter">
-		<h1>Why our clients</h1>
-		<h1>choose Ensome?</h1>
-
-		<p class="max-w-100 mt-5 text-center">
-			Doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-			architecto beatae vitae dicta sunt explicabo.
-		</p>
+		<h1>Glad to help your success</h1>
 
 		<div class="carousel carousel-center md:w-full md:p-0 px-10 space-x-4 mt-7 w-[100vw]">
-			<div class="carousel-item card shadow">
-				<h3>Machine learning</h3>
+			<div class="carousel-item card">
+				<p>22 June 2020</p>
+
+				<h3>Sed ut perspiciatis unde omnis at vero blanditils</h3>
 				<p>
 					At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
 					voluptatum deleniti atque corrupti quos dolores.
 				</p>
+
+				<div class="flex flex-row gap-2">
+					<div class="tag">Proxy</div>
+					<div class="tag">VPN</div>
+				</div>
 			</div>
-			<div class="carousel-item card shadow">
-				<h3>Embed analytics</h3>
+
+			<div class="carousel-item card">
+				<p>22 June 2020</p>
+
+				<h3>Sed ut perspiciatis unde omnis at vero blanditils</h3>
 				<p>
 					At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
 					voluptatum deleniti atque corrupti quos dolores.
 				</p>
+
+				<div class="flex flex-row gap-2">
+					<div class="tag">Proxy</div>
+					<div class="tag">VPN</div>
+				</div>
 			</div>
-			<div class="carousel-item card shadow">
-				<h3>Access control</h3>
+
+			<div class="carousel-item card">
+				<p>22 June 2020</p>
+
+				<h3>Sed ut perspiciatis unde omnis at vero blanditils</h3>
 				<p>
 					At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
 					voluptatum deleniti atque corrupti quos dolores.
 				</p>
+
+				<div class="flex flex-row gap-2">
+					<div class="tag">Proxy</div>
+					<div class="tag">VPN</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -41,7 +58,6 @@
 
 	.card {
 		width: calc(75rem / 3 - 7rem);
-		aspect-ratio: 1;
 		padding: 2rem;
 
 		background-color: white;
