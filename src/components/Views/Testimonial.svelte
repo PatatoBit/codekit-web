@@ -2,8 +2,10 @@
 	<div class="wrapper wrapper-center fullcenter">
 		<h1>Glad to help your success</h1>
 
-		<div class="carousel carousel-center md:w-full md:p-0 px-10 space-x-4 mt-7 w-[100vw]">
-			<div class="carousel-item card">
+		<div
+			class="carousel carousel-center md:w-full md:p-0 px-10 space-x-4 mt-7 w-[100vw] overflow-visible"
+		>
+			<div class="carousel-item card shadow">
 				<p>22 June 2020</p>
 
 				<h3>Sed ut perspiciatis unde omnis at vero blanditils</h3>
@@ -18,7 +20,7 @@
 				</div>
 			</div>
 
-			<div class="carousel-item card">
+			<div class="carousel-item card shadow">
 				<p>22 June 2020</p>
 
 				<h3>Sed ut perspiciatis unde omnis at vero blanditils</h3>
@@ -33,7 +35,7 @@
 				</div>
 			</div>
 
-			<div class="carousel-item card">
+			<div class="carousel-item card shadow">
 				<p>22 June 2020</p>
 
 				<h3>Sed ut perspiciatis unde omnis at vero blanditils</h3>
