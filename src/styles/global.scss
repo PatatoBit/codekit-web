@@ -7,16 +7,53 @@ body,
 	box-sizing: border-box;
 }
 
-.page {
-	max-width: 65rem;
+.wrapper {
+	max-width: 75rem;
 	margin-inline: auto;
 	padding-inline: 2rem;
-}
 
-.page.fullcenter {
-	min-height: 80vh;
+	&.fullcenter {
+		min-height: 80vh;
 
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	&.hero-main {
+		flex-direction: row;
+		gap: 2rem;
+
+		@media screen and (max-width: 768px) {
+			flex-wrap: wrap-reverse;
+			gap: 0;
+		}
+	}
+
+	&.wrapper-center {
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.content {
+		display: flex;
+		flex-direction: column;
+		flex: 1 1 1;
+		gap: 1rem;
+
+		max-width: 50rem;
+	}
+
+	.image {
+		max-width: 100%;
+		object-fit: contain;
+
+		img {
+			width: 100%;
+			height: auto;
+		}
+	}
 }
