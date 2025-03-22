@@ -6,7 +6,8 @@
 	import Trusted from '../components/Views/Trusted.svelte';
 	import Stats from '../components/Views/Stats.svelte';
 	import Contact from '../components/Views/Contact.svelte';
-	import Newsletter from '../components/Views/Newsletter.svelte';
+	import Newsletter from '../components/Newsletter.svelte';
+	import Footer from '../components/Footer.svelte';
 </script>
 
 <Hero />
@@ -17,3 +18,4 @@
 <Stats />
 <Contact />
 <Newsletter />
+<Footer />
