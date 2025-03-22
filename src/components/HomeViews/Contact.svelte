@@ -1,5 +1,5 @@
 <section class="background">
-	<div class="wrapper fullcenter hero-reverse">
+	<div class="wrapper hero-reverse flex flex-col py-10">
 		<div class="content">
 			<h1>Left questions? Contact us now for a free consultation and free trial!</h1>
 
@@ -77,7 +77,7 @@
 	}
 
 	.wrapper {
-		gap: 15rem;
+		gap: 5rem;
 	}
 
 	.background {

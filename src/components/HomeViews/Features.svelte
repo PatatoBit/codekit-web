@@ -10,6 +10,8 @@
 
 		<div class="carousel carousel-center md:w-full md:p-0 px-10 space-x-4 mt-7 w-[100vw]">
 			<div class="carousel-item card shadow">
+				<img src="/icons@2x.jpg" alt="Machine Learning" />
+
 				<h3>Machine learning</h3>
 				<p>
 					At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
@@ -17,6 +19,7 @@
 				</p>
 			</div>
 			<div class="carousel-item card shadow">
+				<img src="/icons@2x-1.jpg" alt="Machine Learning" />
 				<h3>Embed analytics</h3>
 				<p>
 					At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
@@ -24,6 +27,7 @@
 				</p>
 			</div>
 			<div class="carousel-item card shadow">
+				<img src="/icons@2x-2.jpg" alt="Machine Learning" />
 				<h3>Access control</h3>
 				<p>
 					At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
@@ -51,5 +55,10 @@
 		display: flex;
 		flex-direction: column;
 		gap: 1rem;
+	}
+
+	img {
+		width: 70px;
+		height: 70px;
 	}
 </style>

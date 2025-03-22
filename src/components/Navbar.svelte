@@ -3,7 +3,7 @@
 		<img src="/logo_blue.jpg" alt="Ensome Logo" />
 
 		<a href="/">Home</a>
-		<a href="/solutions">Solutions</a>
+		<a href="/solution">Solution</a>
 		<a href="/elements">Elements</a>
 	</div>
 

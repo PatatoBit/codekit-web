@@ -10,7 +10,7 @@
 
 		<div class="flex flex-row gap-3 mt-5">
 			<button class="btn btn-primary">Learn more</button>
-			<button class="btn btn-secondary">Watch the video</button>
+			<button class="btn btn-outline">Watch the video</button>
 		</div>
 	</div>
 
