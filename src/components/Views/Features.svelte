@@ -7,7 +7,7 @@
 		architecto beatae vitae dicta sunt explicabo.
 	</p>
 
-	<div class="carousel carousel-center w-full space-x-4 mt-7">
+	<div class="carousel carousel-center md:w-full space-x-4 mt-7 w-[100vw]">
 		<div class="carousel-item card">
 			<h3>Machine learning</h3>
 			<p>
