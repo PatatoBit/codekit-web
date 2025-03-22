@@ -5,6 +5,7 @@
 	import Testimonial from '../components/Views/Testimonial.svelte';
 	import Trusted from '../components/Views/Trusted.svelte';
 	import Stats from '../components/Views/Stats.svelte';
+	import Contact from '../components/Views/Contact.svelte';
 </script>
 
 <Hero />
@@ -13,3 +14,4 @@
 <Testimonial />
 <Trusted />
 <Stats />
+<Contact />

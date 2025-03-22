@@ -18,6 +18,3 @@
 		<img src="/001_illustration.jpg" alt="Illustration" />
 	</div>
 </main>
-
-<style lang="scss">
-</style>
