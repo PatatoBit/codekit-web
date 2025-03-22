@@ -7,7 +7,7 @@
 		<a href="/elements">Elements</a>
 	</div>
 
-	<button class="btn btn-primary hidden md:block"> Watch the demo </button>
+	<button class="btn btn-primary hidden md:flex"> Watch the demo </button>
 </nav>
 
 <style lang="scss">
