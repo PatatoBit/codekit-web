@@ -64,7 +64,7 @@
 
 				<div class="flex flex-col">
 					<p>1642 Washington Avenue, Jackson, MS, 39201</p>
-					<p class="font-bold">Driving derections</p>
+					<p class="font-bold">Driving directions</p>
 				</div>
 			</div>
 
