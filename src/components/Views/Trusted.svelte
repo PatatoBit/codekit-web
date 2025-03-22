@@ -15,6 +15,8 @@
 		class="carousel carousel-center md:w-full md:p-0 px-10 space-x-4 mt-7 w-[100vw] overflow-visible"
 	>
 		<div class="carousel-item card shadow">
+			<img src="/001_img_person_1.jpg" alt="Person 1" />
+
 			<p>
 				“Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam,
 				nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea
@@ -33,10 +35,17 @@
 	}
 
 	.card {
+		position: relative;
 		width: calc(75rem / 2 - 7rem);
-		padding: 2rem;
-
+		padding: 5rem 2rem 2rem 2rem;
 		background-color: white;
+
+		img {
+			position: absolute;
+			top: -2.5rem;
+			width: 80px;
+			height: 80px;
+		}
 	}
 
 	.carousel-item {
