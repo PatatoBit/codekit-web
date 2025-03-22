@@ -1,4 +1,4 @@
-<main class="wrapper wrapper-center fullcenter">
+<section class="wrapper wrapper-center fullcenter">
 	<h1>Why our clients</h1>
 	<h1>choose Ensome?</h1>
 
@@ -7,7 +7,7 @@
 		architecto beatae vitae dicta sunt explicabo.
 	</p>
 
-	<div class="carousel carousel-center md:w-full space-x-4 mt-7 w-[100vw]">
+	<div class="carousel carousel-center md:w-full md:p-0 px-10 space-x-4 mt-7 w-[100vw]">
 		<div class="carousel-item card">
 			<h3>Machine learning</h3>
 			<p>
@@ -30,7 +30,7 @@
 			</p>
 		</div>
 	</div>
-</main>
+</section>
 
 <style lang="scss">
 	.card {
