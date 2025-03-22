@@ -1,11 +1,16 @@
 <main class="page fullcenter">
-	<h1>Hello World</h1>
+	<h1>Find true power in your data with Ensome</h1>
 
 	<p>
-		Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quis dignissimos nam magni delectus
-		necessitatibus dolorem, veniam labore commodi, suscipit adipisci explicabo vitae perferendis
-		praesentium omnis exercitationem blanditiis numquam fugit? Maxime?
+		Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+		laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto
+		beatae vitae dicta sunt explicabo.
 	</p>
+
+	<div class="flex flex-row gap-3 mt-5">
+		<button class="btn btn-primary">Learn more</button>
+		<button class="btn btn-secondary">Watch the video</button>
+	</div>
 </main>
 
 <style lang="scss">

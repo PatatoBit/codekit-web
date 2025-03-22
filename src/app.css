@@ -1,10 +1,10 @@
 @import 'tailwindcss';
 @plugin "daisyui" {
-	themes: 'light';
+	themes: 'ensome';
 }
 @plugin "daisyui/theme" {
-	name: 'light';
-	default: false;
+	name: 'ensome';
+	default: true;
 	prefersdark: false;
 	color-scheme: 'light';
 	--color-base-100: #f1f6fa;
