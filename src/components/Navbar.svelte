@@ -7,18 +7,24 @@
 		<a href="/elements">Elements</a>
 	</div>
 
-	<button class="btn btn-primary"> Watch the demo </button>
+	<button class="btn btn-primary hidden md:block"> Watch the demo </button>
 </nav>
 
 <style lang="scss">
 	img {
+		object-fit: contain;
 		width: 7rem;
+		height: autp;
 	}
 
 	a {
 		align-self: center;
 		&:hover {
 			font-weight: 700;
+		}
+
+		@media screen and (max-width: 768px) {
+			display: none;
 		}
 	}
 </style>
